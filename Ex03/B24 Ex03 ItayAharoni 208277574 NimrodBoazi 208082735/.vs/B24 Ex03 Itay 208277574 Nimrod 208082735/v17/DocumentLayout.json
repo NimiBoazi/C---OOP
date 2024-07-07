@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\valueoutofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\valueoutofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\vehicleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\vehicleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|solutionrelative:ex03.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.consoleui\\userinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|solutionrelative:ex03.consoleui\\userinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.consoleui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCEFC-7919-413E-A18E-C7FDE8282172}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|solutionrelative:ex03.consoleui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\vehiclecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\vehiclecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\garagelogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\garagelogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\ownerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\ownerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\fuelengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\fuelengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\b24 ex03 itay 208277574 nimrod 208082735\\ex03.garagelogic\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90CE2D-12ED-49D7-8EC0-914F25F0DC61}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\UserInputValidation.cs",
+              "RelativeDocumentMoniker": "Ex03.ConsoleUI\\UserInputValidation.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\UserInputValidation.cs",
+              "RelativeToolTip": "Ex03.ConsoleUI\\UserInputValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:27:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\VehicleCreator.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\VehicleCreator.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\VehicleCreator.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\VehicleCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:22:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValueOutOfRangeException.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\ValueOutOfRangeException.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\ValueOutOfRangeException.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\ValueOutOfRangeException.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\ValueOutOfRangeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:21:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Tire.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Tire.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Tire.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Tire.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:20:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnerData.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\OwnerData.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\OwnerData.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\OwnerData.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\OwnerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:01:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GarageLogicManager.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\GarageLogicManager.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\GarageLogicManager.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\GarageLogicManager.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\GarageLogicManager.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAAwA8BAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:01:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "Ex03.ConsoleUI\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\ConsoleUI.cs",
+              "RelativeToolTip": "Ex03.ConsoleUI\\ConsoleUI.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAAwMcBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:27:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03.ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "Ex03.ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:39:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuelEngine.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\FuelEngine.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\FuelEngine.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\FuelEngine.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\FuelEngine.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:00:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Vehicle.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Vehicle.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:28:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleEngine.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\VehicleEngine.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\VehicleEngine.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\VehicleEngine.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\VehicleEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:58:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElectricEngine.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\ElectricEngine.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\ElectricEngine.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\ElectricEngine.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\ElectricEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:59:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Truck.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Truck.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Truck.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:37:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Motorcycle.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Motorcycle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:38:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Car.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Car.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\B24 Ex03 Itay 208277574 Nimrod 208082735\\Ex03.GarageLogic\\Car.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:36:51.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\gamelogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\gamelogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|c:\\users\\itay1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\c# programs\\ex02\\b24 ex02 itayaharoni 208277574 nimrodboazi 208082735\\ex02_main\\pcplayerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\pcplayerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\ex02_main\\boardcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B7C55-470B-47E7-864E-85FBB54E958F}|Ex02_Main\\Ex02_Memory_Game.csproj|solutionrelative:ex02_main\\boardcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PcPlayerLogic.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\PcPlayerLogic.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\PcPlayerLogic.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\PcPlayerLogic.cs",
+              "RelativeToolTip": "Ex02_Main\\PcPlayerLogic.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:58:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\Program.cs",
+              "RelativeToolTip": "Ex02_Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:22:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\GameBoard.cs",
+              "RelativeToolTip": "Ex02_Main\\GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:22:24.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLogicManager.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\GameLogicManager.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\GameLogicManager.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\GameLogicManager.cs",
+              "RelativeToolTip": "Ex02_Main\\GameLogicManager.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwGEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:57:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\ConsoleUI.cs",
+              "RelativeToolTip": "Ex02_Main\\ConsoleUI.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAAAM4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:25:28.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\PlayerData.cs",
+              "RelativeToolTip": "Ex02_Main\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:22:21.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardCell.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\BoardCell.cs",
+              "RelativeDocumentMoniker": "Ex02_Main\\BoardCell.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\C# programs\\Ex02\\B24 Ex02 ItayAharoni 208277574 NimrodBoazi 208082735\\Ex02_Main\\BoardCell.cs",
+              "RelativeToolTip": "Ex02_Main\\BoardCell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:13:32.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
